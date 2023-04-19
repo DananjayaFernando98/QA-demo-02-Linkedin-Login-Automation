@@ -3,7 +3,7 @@ QA demo 02 Linkedin Login Automation using xpath
 
 Agenda for the this project
 
-    //01.https://www.linkedin.com/
+                //01.https://www.linkedin.com/
 		//02 Maximize the window
 		//03.Get Title
 		//04.Goto form section and put email
