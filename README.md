@@ -1,7 +1,7 @@
 # QA-demo-02-Linkedin-Login-Automation
 QA demo 02 Linkedin Login Automation using xpath 
 
-Agenda for the this project
+Agenda for this project
 
                 //01.https://www.linkedin.com/
 		//02 Maximize the window
